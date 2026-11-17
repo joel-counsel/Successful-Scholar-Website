@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://successfulscholartutoring.com/sitemap.xml
